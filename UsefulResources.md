@@ -1,0 +1,7 @@
+- https://symfony.com/doc/current/translation.html
+- https://symfony.com/doc/current/security.html#authenticating-users
+- https://symfony.com/doc/current/cache.html
+- https://symfony.com/doc/current/event_dispatcher.html
+- https://symfony.com/doc/current/logging.html
+- https://deployer.org/
+- https://symfony.com/doc/current/testing.html
