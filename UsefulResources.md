@@ -8,3 +8,5 @@
 - https://www.techtarget.com/searchsoftwarequality/definition/unit-testing
 - https://www.youtube.com/watch?v=SOhM7UP-C0I&t=47s
 - https://phpunit.de/
+- https://symfony.com/doc/5.4/event_dispatcher.html
+- https://symfony.com/doc/5.4/security.html
